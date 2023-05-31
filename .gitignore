@@ -127,6 +127,7 @@ dist
 .pnp.*
 
 # Мои файлы 
+.vscode/
 node_modules/
 components/Const.js
 components/FirstComent.js
